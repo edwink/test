@@ -1,0 +1,11 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>Credit Scoring Tool</name>
+ <provider>Clear Score</provider>
+ <description>Credit Scoring Tool</description>
+ <extensionpoint>
+ <location>LOAN_ACCOUNT_VIEW</location>
+ <label>Credit Scoring Tool</label>
+ <url>https://www.clearscore.com/</url>
+ </extensionpoint>
+</app>
