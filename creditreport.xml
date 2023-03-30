@@ -1,0 +1,12 @@
+<app>
+ <id>ty7tl19e0</id>
+ <name>Client Credit Report</name>
+ <provider>Mambu ICs</provider>
+ <description>Shows the credit report of the client </description>
+ <permission>VIEW_CLIENT_DETAILS</permission>
+ <extensionpoint>
+     <location>CLIENT_VIEW</location>
+     <label>Credit Score</label>
+     <url>https://2xamavegqbachgz5z235wayeuu0gfsvi.lambda-url.eu-central-1.on.aws/</url>
+ </extensionpoint>
+</app>
