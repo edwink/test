@@ -1,0 +1,11 @@
+<app>
+ <id>ty7tl29e0</id>
+ <name>Consolidated Accounts</name>
+ <provider>Mambu ICs</provider>
+ <description>Shows the consolidated accounts </description>
+ <extensionpoint>
+     <location>LINE_OF_CREDIT_VIEW</location>
+     <label>Consolidated Accounts</label>
+     <url>https://2xamavegqbachgz5z235wayeuu0gfsvi.lambda-url.eu-central-1.on.aws/</url>
+ </extensionpoint>
+</app>
